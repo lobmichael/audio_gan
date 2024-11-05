@@ -1,2 +1,4 @@
 # audio_gan
-Audio Generation using Generative Adversarial Networks
+Audio Generation and Separation using Generative Adversarial Networks.
+
+Implemented in Pytorch
